@@ -1,7 +1,7 @@
 # Leon-Website
 This project build by using html5 and css. (fully responsive)
 
-## Demo 
+## Preview  
 ### [Leon-Website](https://leon-website-sigma.vercel.app/)
 
 
